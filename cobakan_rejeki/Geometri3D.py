@@ -19,10 +19,10 @@ def LPTabung(diameter:float, tinggi:float):
     return 2 * (mt.pi * (diameter ** 2) / 4) + mt.pi * diameter * tinggi
 
 def VolumeBola(diameter:float):
-    return 4/3 * mt.pi (diameter**3) / 8
+    return 4/3 * mt.pi * (diameter**3) / 8
 
 def LPBola(diameter:float):
-    return 4 * mt.pi (diameter**2) / 4
+    return 4 * mt.pi * (diameter**2) / 4
 
 
 
