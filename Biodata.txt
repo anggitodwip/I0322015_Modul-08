@@ -1,3 +1,19 @@
-Nama: #N/A
-Umur: #N/A
-Alamat: #N/A
+Nama: Anggito
+Umur: 19
+Alamat: Vejen Imperial
+
+Nama: Dwi
+Umur: 19
+Alamat: Vejen Imperial
+
+Nama: Prihantoro
+Umur: 19
+Alamat: Vejen Imperial
+
+Nama: Adeet
+Umur: 29
+Alamat: Cawasia
+
+Nama: Adeet
+Umur: 29
+Alamat: Cawasia
